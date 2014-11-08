@@ -1,0 +1,16 @@
+.page-header h1 {
+	margin-top: 0;
+}
+
+.panel-footer .small {
+	margin-top: 3px;
+}
+
+.favicon {
+	display: block;
+	width: 16px;
+	height: 16px;
+	margin: -2px 7px 0 0;
+	font-size: 18px;
+	color: #ccc;
+}
