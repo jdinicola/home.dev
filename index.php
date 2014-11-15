@@ -73,7 +73,7 @@ include 'config.php';
 
 									<?php if ( file_exists( ROOT_PATH . $site->getFilename() . '/' . WWW_FOLDER . '/wp-admin' ) ) : ?>
 
-										<a href="<?php echo URL_PREFIX . $site->getFilename() . URL_SUFIX . '/wp-admin'; ?>" class="btn btn-default btn-xs pull-right"><span class="fa fa-wordpress"></span></a>
+										<a href="<?php echo URL_PREFIX . $site->getFilename() . URL_SUFIX . '/wp-admin'; ?>" class="btn btn-default btn-xs pull-right btn-wordpress"><span class="fa fa-wordpress"></span></a>
 
 									<?php endif; ?>
 
